@@ -5,7 +5,7 @@ import matplotlib
 matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 from scipy import stats
-import tkinter as tk
+#import tkinter as tk
 
 plt.style.use('grayscale')
 plt.style.use('seaborn-whitegrid')
