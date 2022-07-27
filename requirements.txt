@@ -2,4 +2,4 @@ scipy==1.7.3
 numpy==1.21.5
 matplotlib==3.5.1
 streamlit==1.10.0
-tkinter==8.6.11
+tkinter==8.0.0
