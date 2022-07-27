@@ -45,7 +45,7 @@ st.title("A/Bテスト")
 st.write("このアプリは、ベイズ統計を用いてA/Bテストを行います。")
 
 st.subheader('1.データの入力')
-st.write('A案とB案のクリック数・非クリック数を入力してください。')
+st.write('A案とB案のクリック数・インプレッション数を入力してください。')
 
 with st.container():
     with st.expander("A案クリック数"):
