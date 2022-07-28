@@ -17,6 +17,8 @@ st.set_page_config(page_title="ベイズ統計×A/Bテスト",
                    initial_sidebar_state="collapsed",
                    )
 
+st.set_option('deprecation.showPyplotGlobalUse', False)
+
 # 関数の実行をメモするための関数デコレータ
 # @st.cache(persist=False,
 #           allow_output_mutation=True,
