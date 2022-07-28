@@ -2,7 +2,7 @@ from re import A
 import streamlit as st
 import numpy as np
 import matplotlib
-matplotlib.use('TkAgg')
+# matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 from scipy import stats
 import tkinter as tk
